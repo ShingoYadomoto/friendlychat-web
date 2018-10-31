@@ -1,15 +1,7 @@
-# Firebase Codelab: FriendlyChat
+# Firebase でチャットアプリ
 
-This is the source code for the Firebase FriendlyChat codelab. It includes start and end versions of the
-code for Web and Cloud Functions. To get started open the codelab instructions:
-
+以下の手順に沿ってレバできる
  - [Firebase Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
  - [Firebase SDK for Cloud Functions Codelab](https://codelabs.developers.google.com/codelabs/firebase-cloud-functions/).
 
-
-## How to make contributions?
-Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
-
-
-## License
-See [LICENSE](LICENSE)
+`apiKey` と `messagingSenderId` だけ[firebaseのコンソール](https://console.firebase.google.com/u/0/?hl=ja)から確認して差し替え
